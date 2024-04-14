@@ -15,5 +15,5 @@ print(" Studente due: \n",studente2.scheda_personale())
 
 studente1.ore_settimanali += 4
 print("")
-print(" Ore settimanali dello studente uno dopo la modifica: ",studente1.ore_settimanali)
-print(" Ore settimanali dello studente due dopo la modifica: ",studente2.ore_settimanali)
+print(" Ore settimanali dello studente uno dopo la modifica:",studente1.ore_settimanali)
+print(" Ore settimanali dello studente due dopo la modifica:",studente2.ore_settimanali)

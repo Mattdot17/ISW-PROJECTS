@@ -1,6 +1,6 @@
 from Studente import Studente
 
-studente1 = Studente("Mattia", "Deiana", "Informatica")
+studente1 = Studente("Django", "Freeman", "Informatica")
 studente2 = Studente("Piero", "Della", "Medicina")
 
 #print(f'{studente1}')
